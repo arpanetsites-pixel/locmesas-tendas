@@ -114,7 +114,7 @@
     bairro: "Olá, LOCMESAS! Quero saber se vocês atendem o local do meu evento.\n\nBairro/cidade: \nData do evento: \nNº de convidados: ",
     t3x3: "Olá, LOCMESAS! Quero um orçamento da tenda 3x3 m.\n\nData do evento: \nBairro/cidade: \nQuantidade de tendas: ",
     t6x3: "Olá, LOCMESAS! Quero um orçamento da tenda 6x3 m.\n\nData do evento: \nBairro/cidade: \nQuantidade de tendas: ",
-    forros: "Olá, LOCMESAS! Quero um orçamento de mesas com forro.\n\nData do evento: \nBairro/cidade: \nQuantidade de mesas: \nCor do forro (preto, branco, dourado, avelã ou prata): ",
+    forros: "Olá, LOCMESAS! Quero um orçamento de mesas com forro.\n\nData do evento: \nBairro/cidade: \nQuantidade de mesas: \nCor do forro (preto, branco, dourado ou avelã): ",
   };
   // Catálogo: cada produto abre o WhatsApp já dizendo o que o cliente quer
   const pedido = (item) => `Olá, LOCMESAS! Vi no catálogo e quero alugar ${item}.
